@@ -1,0 +1,53 @@
+.todo {
+  background-color: #1c0c5b;
+  color: #c996cc;
+  height: 30rem;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  border-radius: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.todowrapper {
+  background-color: #916bbf;
+  color: #1c0c5b;
+  width: 20rem;
+  height: 26rem;
+  margin-left: 25rem;
+  border-radius: 5px;
+}
+.todowrapper h1 {
+  text-align: center;
+  padding-top: 2rem;
+}
+.forme {
+  padding-left: 1rem;
+}
+.forme input {
+  background-color: #f6dfeb;
+  border: none;
+  height: 1.5rem;
+  border-radius: 3px;
+  margin-right: 1rem;
+  padding-left: 0.5rem;
+}
+.forme button {
+  background-color: #1c0c5b;
+  color: #f6dfeb;
+  border: none;
+  border-radius: 3px;
+  height: 1.6rem;
+  cursor: pointer;
+}
+
+.list {
+  list-style: none;
+  font-size: 20px;
+}
+
+.Btn {
+  background-color: #ea7ad7;
+  border: none;
+  border-radius: 3px;
+  margin-left: 2rem;
+  cursor: pointer;
+}
